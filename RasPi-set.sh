@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# linux-set.sh
+# linux-set.sh >> RasPi-set.sh
 # This script is for setting Debian or Debian-based Linux distros automatically.
 # Requiers Internet connnection.
 # Confused? Read 'README.md'
