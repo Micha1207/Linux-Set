@@ -6,4 +6,5 @@ in Ubuntu Linux.
 Important!:
 CPU Architecture(s): ARM
 Supported platform(s): Raspberry Pi 
+
 Default Operating System: Ubuntu Linux
